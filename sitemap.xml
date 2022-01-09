@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yasirbil.github.io/posts/mypost/</loc>
+    <loc>http://yasirbil.github.io/mypost/</loc>
     <lastmod>2022-01-08T22:41:33-06:00</lastmod>
   </url><url>
-    <loc>http://yasirbil.github.io/posts/mysecondpost/</loc>
-    <lastmod>2022-01-08T22:41:33-06:00</lastmod>
-  </url><url>
-    <loc>http://yasirbil.github.io/posts/</loc>
-    <lastmod>2022-01-08T22:41:33-06:00</lastmod>
-  </url><url>
-    <loc>http://yasirbil.github.io/</loc>
+    <loc>http://yasirbil.github.io/mysecondpost/</loc>
     <lastmod>2022-01-08T22:41:33-06:00</lastmod>
   </url><url>
     <loc>http://yasirbil.github.io/tags/another-test/</loc>
@@ -26,13 +20,16 @@
     <loc>http://yasirbil.github.io/categories/category-2/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://yasirbil.github.io/posts/thirdpost/</loc>
+    <loc>http://yasirbil.github.io/thirdpost/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yasirbil.github.io/tags/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yasirbil.github.io/tags/test/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yasirbil.github.io/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
 </urlset>
