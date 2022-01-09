@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yasir Blog</title>
+    <link>http://yasirbilgin.github.io/posts/</link>
+    <description>Recent content in Posts on Yasir Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 22:41:33 -0600</lastBuildDate><atom:link href="http://yasirbilgin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://yasirbilgin.github.io/posts/mypost/</link>
+      <pubDate>Sat, 08 Jan 2022 22:41:33 -0600</pubDate>
+      
+      <guid>http://yasirbilgin.github.io/posts/mypost/</guid>
+      <description>This is my content</description>
+    </item>
+    
+  </channel>
+</rss>
