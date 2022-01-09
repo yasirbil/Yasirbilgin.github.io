@@ -16,5 +16,14 @@
       <description>This is my content</description>
     </item>
     
+    <item>
+      <title>My Second Post</title>
+      <link>http://yasirbil.github.io/posts/mysecondpost/</link>
+      <pubDate>Sat, 08 Jan 2022 22:41:33 -0600</pubDate>
+      
+      <guid>http://yasirbil.github.io/posts/mysecondpost/</guid>
+      <description>This is my second post</description>
+    </item>
+    
   </channel>
 </rss>
