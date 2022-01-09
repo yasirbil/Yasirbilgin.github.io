@@ -25,5 +25,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Category 3</title>
+      <link>http://yasirbil.github.io/categories/category-3/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://yasirbil.github.io/categories/category-3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
