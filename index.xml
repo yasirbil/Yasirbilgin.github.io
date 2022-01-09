@@ -25,5 +25,14 @@
       <description>This is my second post</description>
     </item>
     
+    <item>
+      <title>Example article title</title>
+      <link>http://yasirbil.github.io/thirdpost/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://yasirbil.github.io/thirdpost/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
